@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to read the newly created user from the application","FAILURE","2022-06-21T19:35:00.533+01:00[Europe/London]","0.0","0.44"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to update the newly created user using PUT from the application","FAILURE","2022-06-21T19:35:01.259+01:00[Europe/London]","0.0","0.62"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to update the newly created user using PATCH from the application","FAILURE","2022-06-21T19:35:01.939+01:00[Europe/London]","0.0","0.58"
+"As a user I would like to check the CRUD functionality of reqres.in","I want to delete the newly created user from the application","FAILURE","2022-06-21T19:35:02.644+01:00[Europe/London]","0.0","0.53"
